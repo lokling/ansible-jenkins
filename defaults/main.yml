@@ -1,8 +1,9 @@
----
+------
 placeholder: 'placeholder'
-# plugins:
-#   - 'ldap'
-#   - 'github'
-#   - 'translation'
-#   - 'preSCMbuildstep'
-#   - 'gravatar'
+plugins:
+   - 'ldap'
+   - 'github'
+   - 'translation'
+   - 'preSCMbuildstep'
+   - 'gravatar'
+   - 'sbt'
