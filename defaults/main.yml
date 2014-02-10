@@ -1,5 +1,4 @@
-------
-placeholder: 'placeholder'
+---
 plugins:
    - 'ldap'
    - 'github'
